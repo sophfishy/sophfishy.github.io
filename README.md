@@ -17,6 +17,19 @@
             overflow: hidden;
         }
 
+
+            /*my title owo*/
+        .main-title {
+            font-size: 28px;
+            font-weight: 700;
+            color: #ffffff;
+            margin: 0 0 30px 0; /* Creates space below the title */
+            text-align: center;
+            letter-spacing: 1px;
+            border-bottom: 2px solid #00adb5; /* Optional cool underline effect */
+            padding-bottom: 8px;
+        }
+
         /* Outer wrapper for layout */
         .gallery-container {
             display: flex;
@@ -150,6 +163,8 @@
 <body>
 
     <div class="gallery-container">
+    
+    <h1 class="main-title">Sophfishy's Fav Songs and Albums</h1>
         
         <!-- 3D Flipping Card Stack -->
         <div class="slider-viewport">
