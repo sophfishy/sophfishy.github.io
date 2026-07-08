@@ -31,7 +31,7 @@
         .slider-viewport {
             position: relative;
             width: 300px;
-            height: 300x;
+            height: 300px;
             perspective: 1000px; /* Gives the 3D flipping effect depth */
             display: flex;
             justify-content: center;
