@@ -30,8 +30,8 @@
         /* 3D Scene viewport */
         .slider-viewport {
             position: relative;
-            width: 320px;
-            height: 400px;
+            width: 300px;
+            height: 300x;
             perspective: 1000px; /* Gives the 3D flipping effect depth */
             display: flex;
             justify-content: center;
